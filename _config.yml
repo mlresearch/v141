@@ -70,8 +70,7 @@ display:
   comments: false
 email: ''
 conference:
-  name: The First Teaching Machine Learning and Artificial Intelligence
-  Workshop
+  name: The First Teaching Machine Learning and Artificial Intelligence Workshop
   url:
   location: Virtual Conference
   dates:
